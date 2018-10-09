@@ -1,0 +1,6 @@
+variable= 1
+
+for x in [v1, v2, v29
+	print ("djesi")
+
+
